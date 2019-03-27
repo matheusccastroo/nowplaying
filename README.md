@@ -10,5 +10,3 @@ The index should be the index from the music playing, from the files open by the
 For example, for deadbeef it would be: deadbeef, 0
 
 Uses UTF-8 encode, so it work's with asian letters.
-
-If you prefer, you may download the app itself.
