@@ -8,6 +8,7 @@ In the inform player, it should be wrote this way: player, index (without .).
 The index should be the index from the music playing, from the files open by the player process.
 
 For example, for deadbeef it would be: deadbeef, 0
+
              for foobar2000 it would be: foobar2000, 16
              
 
